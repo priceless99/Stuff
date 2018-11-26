@@ -1,0 +1,15 @@
+.img {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://images7.alphacoders.com/427/thumb-1920-427256.jpg);
+}
+.left {
+    margin-left: 70px;
+}
+p:hover {
+    color: orangered;
+    transition-delay: .5s;
+}
+.class {
+    background-color: orangered;
+}
